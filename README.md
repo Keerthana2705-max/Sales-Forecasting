@@ -63,30 +63,46 @@ Project Implementation<br>
 <h2>5. Store and Product Analysis</h2>
 
 <p>Sales performance was compared across different stores and products. Best-performing stores and top-selling products were identified, along with low-performing ones.</p>
+<img width="1077" height="700" alt="image" src="https://github.com/user-attachments/assets/14a7ae95-7f9d-4461-bc0b-9e868a56e84c" />
+
 
 <h2>6. Time-Based Analysis</h2>
 
 <p>Sales data was analyzed based on time intervals such as:</p>
 
 Daily trends<br>
+<img width="1292" height="600" alt="image" src="https://github.com/user-attachments/assets/9bc952d7-f2e3-4cfa-bde0-e6172fbe900d" />
+
 Monthly trends<br>
+<img width="887" height="597" alt="image" src="https://github.com/user-attachments/assets/9d307e20-0987-4487-9c5b-9a96980905dd" />
+
 Yearly growth patterns<br>
+<img width="890" height="620" alt="image" src="https://github.com/user-attachments/assets/1c068195-d505-4207-854e-1971f9c259f5" />
+
 
 <p>This helped identify seasonality and long-term trends.</p>
 
 <h2>7. Relationship Analysis</h2>
 
 <p>Relationships between variables such as date, store, product, and sales were studied to identify factors affecting sales performance.</p>
-
 <h2>8. Data Visualization</h2>
 
 <p>Various visualization techniques were used for better understanding:</p>
 
 Line charts to show sales over time<br>
+
 Bar charts to compare stores and products<br>
+<img width="1070" height="700" alt="image" src="https://github.com/user-attachments/assets/a976c47b-f152-4a36-9e99-1d5d26f346f7" />
+
 Histograms to analyze sales distribution<br>
+<img width="892" height="598" alt="image" src="https://github.com/user-attachments/assets/e30ff336-3566-410a-a39a-ea386491994c" />
+
 Box plots to detect outliers<br>
+<img width="801" height="603" alt="image" src="https://github.com/user-attachments/assets/e7f460db-5015-4e7c-8ad4-84e53c8b68b5" />
+
 Heatmaps to show correlations<br>
+<img width="786" height="572" alt="image" src="https://github.com/user-attachments/assets/d329db77-eb06-492c-9ea6-9645e719bd66" />
+
 <h2>Tools and Technologies Used</h2>
 Python<br>
 pandas<br>
